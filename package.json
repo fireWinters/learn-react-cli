@@ -1,0 +1,8 @@
+{
+  "name": "learn-react-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fireWinters/learn-react-cli.git",
+  "author": "tangtang <1987567948@qq.com>",
+  "license": "MIT"
+}
